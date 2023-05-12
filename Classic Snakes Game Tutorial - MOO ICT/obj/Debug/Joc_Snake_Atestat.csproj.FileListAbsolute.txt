@@ -1,0 +1,11 @@
+C:\Users\delia\OneDrive\Desktop\snake\Classic Snakes Game Tutorial - MOO ICT\bin\Debug\Joc_Snake_Atestat.exe.config
+C:\Users\delia\OneDrive\Desktop\snake\Classic Snakes Game Tutorial - MOO ICT\bin\Debug\Joc_Snake_Atestat.exe
+C:\Users\delia\OneDrive\Desktop\snake\Classic Snakes Game Tutorial - MOO ICT\bin\Debug\Joc_Snake_Atestat.pdb
+C:\Users\delia\OneDrive\Desktop\snake\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Joc_Snake_Atestat.csprojAssemblyReference.cache
+C:\Users\delia\OneDrive\Desktop\snake\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Classic_Snakes_Game_Tutorial___MOO_ICT.Form1.resources
+C:\Users\delia\OneDrive\Desktop\snake\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Joc_Snake_Atestat.Properties.Resources.resources
+C:\Users\delia\OneDrive\Desktop\snake\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Joc_Snake_Atestat.csproj.GenerateResource.cache
+C:\Users\delia\OneDrive\Desktop\snake\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Joc_Snake_Atestat.csproj.CoreCompileInputs.cache
+C:\Users\delia\OneDrive\Desktop\snake\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Joc_Snake_Atestat.exe
+C:\Users\delia\OneDrive\Desktop\snake\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Joc_Snake_Atestat.pdb
+C:\Users\delia\OneDrive\Desktop\snake\Classic Snakes Game Tutorial - MOO ICT\obj\Debug\Joc_Snake_Atestat.Form2.resources
